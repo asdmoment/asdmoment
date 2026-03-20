@@ -51,3 +51,4 @@ class AuNeko:  # autism + neko — that's literally it
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A96E&height=80&section=footer" width="100%" />
 
 </div>
+
