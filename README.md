@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&random=false&width=500&lines=hey%2C+i'm+AuNeko+%F0%9F%90%BE;EE+undergrad+%C2%B7+vibe+coder;building+things+that+shouldn't+work;...but+sometimes+they+do+%E2%9C%A8)](https://github.com/asdmoment)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+AuNeko+%F0%9F%90%BE;EE+undergrad+%C2%B7+vibe+coder;building+things+that+shouldn't+work;...but+sometimes+they+do+%E2%9C%A8)](https://github.com/asdmoment)
 
 </div>
 
