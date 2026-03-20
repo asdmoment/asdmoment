@@ -7,18 +7,23 @@
 ### about me
 
 ```python
-class AuNeko:
+class AuNeko:  # autism + neko — that's literally it
     role     = "EE sophomore who wandered into code"
-    vibe     = "AuDHD-powered hyperfocus"
+    brain    = "autistic · ADHD · seeing the world differently since day one"
     stack    = ["Python", "TypeScript", "Swift", "Shell", "AI whispering"]
     learning = "how far vibe coding can actually go"
-    fun_fact = "Au = gold, Neko = cat. yes i named myself gold cat."
+    also     = ["philosophy", "sociology"]
 ```
 
 - 🎓 sophomore in electrical engineering
 - 🧠 AuDHD — my superpower and my nemesis
+- 📚 philosophy & sociology nerd — i like watching the world from angles most people skip
 - 🐱 currently letting AI write code while i supervise with snacks
 - 🔧 when AI hallucinates, i fix things with actual engineering
+
+> ***Because of you and me, the world will be beautifully diverse.***
+>
+> *因为你我，这个世界终将丰富多彩。*
 
 ### what i've been building
 
