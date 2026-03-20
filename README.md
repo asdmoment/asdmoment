@@ -44,7 +44,7 @@ class AuNeko:  # autism + neko — that's literally it
 
 ### reach me
 
-📬 [github@auneko.org](mailto:github@auneko.org) — feel free to say hi, ask questions, or send cat pictures
+📬 [github@auneko.org](mailto:github@auneko.org) — feel free to say hi, ask questions, or send cat pictures, Nya~
 
 <div align="center">
 
