@@ -21,7 +21,7 @@ class AuNeko:  # autism + neko — that's literally it
 - 🐱 currently letting AI write code while i supervise with snacks
 - 🔧 when AI hallucinates, i fix things with actual engineering
 
-> ***Because of you and me, the world will be beautifully diverse.***
+> ***Because of you and me, the world will be rich and colorful.***
 >
 > *因为你我，这个世界终将丰富多彩。*
 
