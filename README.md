@@ -4,7 +4,7 @@
 
 </div>
 
-### about me
+### About me
 
 ```python
 class AuNeko:  # autism + neko — that's literally it
@@ -15,25 +15,25 @@ class AuNeko:  # autism + neko — that's literally it
     also     = ["philosophy", "sociology"]
 ```
 
-- 🎓 sophomore in electrical engineering
-- 🧠 AuDHD — my superpower and my nemesis
-- 📚 philosophy & sociology nerd — i like watching the world from angles most people skip
-- 🐱 currently letting AI write code while i supervise with snacks
-- 🔧 when AI hallucinates, i fix things with actual engineering
+- 🎓 Sophomore in Electronic Information Engineering
+- 🧠 AuDHD — My superpower and my nemesis
+- 📚 Philosophy & Sociology nerd — I like watching the world from angles most people skip
+- 🐱 Currently letting AI write code while I supervise with snacks
+- 🔧 When AI hallucinates, I fix things with actual engineering
 
 > ***Because of you and me, the world will be rich and colorful.***
 >
 > *因为你我，这个世界终将丰富多彩。*
 
-### what i've been building
+### What I've been building
 
-| project | what it does |
+| Project | What it does |
 |---------|-------------|
-| [**Talkmap**](https://github.com/asdmoment/Talkmap) | turns spoken thoughts into transcripts, summaries & a live topic map |
-| [**fix-electron-windowserver**](https://github.com/asdmoment/fix-electron-windowserver) | tames macOS WindowServer when Electron apps go feral |
+| [**Talkmap**](https://github.com/asdmoment/Talkmap) | Turns spoken thoughts into transcripts, summaries & a live topic map |
+| [**fix-electron-windowserver**](https://github.com/asdmoment/fix-electron-windowserver) | Tames macOS WindowServer when Electron apps go feral |
 | [**SimLocation**](https://github.com/asdmoment/SimLocation) | iOS simulator location spoofing |
 
-### stats
+### Stats
 
 <div align="center">
 
@@ -42,9 +42,9 @@ class AuNeko:  # autism + neko — that's literally it
 
 </div>
 
-### reach me
+### Reach me
 
-📬 [github@auneko.org](mailto:github@auneko.org) — feel free to say hi, ask questions, or send cat pictures, Nya~
+📬 [github@auneko.org](mailto:github@auneko.org) — Feel free to say hi, ask questions, or send cat pictures, Nya~
 
 <div align="center">
 
